@@ -4,8 +4,7 @@ int main()
 {
 	int n,i,fc=0;
 	cin>>n;
-    long int num=sqrt(n);
-    cout<<num;
+        long int num=sqrt(n)
 	for(i=2;i<=num;i++)
 	{
 		if (n%i==0)
